@@ -28,7 +28,6 @@ public class InjectorTest {
             properties.store(out, null);
         }
 
-        // Инициализация инжектора
         injector = new Injector();
     }
 
